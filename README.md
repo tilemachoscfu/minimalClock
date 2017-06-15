@@ -1,1 +1,1 @@
-# minimalClock
+Analog Clock.
